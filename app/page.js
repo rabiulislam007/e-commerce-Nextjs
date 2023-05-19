@@ -1,5 +1,9 @@
 export default function Home() {
   return (
-      <div>Welcome to Shopping world</div>
+      <div>
+        <div>///NavBar</div>
+        <div>///Main Content</div>
+        <div>///Footer</div>
+      </div>
   );
 }
